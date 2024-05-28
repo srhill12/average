@@ -1,0 +1,5 @@
+import statistics
+
+print(statistics.mean([100, 90]))
+
+#example of statistics code from class...refer to python docs on other ways to utilize
